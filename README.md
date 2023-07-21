@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murapov11&show_icons=true&locale=en" alt="murapov11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murapov11&" alt="murapov11" /></p>
-[![MasterHead](https://i.makeagif.com/media/11-29-2017/DW588u.gif)](https://rishavchanda.io)
+
